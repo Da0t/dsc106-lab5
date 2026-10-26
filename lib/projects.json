@@ -1,0 +1,14 @@
+[
+ {"title":"Rewind","year":2026,"category":"Developer Tools","description":"Version control for agent decisions with branching and replay.","stack":"Next.js, React, TypeScript","url":"https://github.com/Da0t"},
+ {"title":"Pylon","year":2026,"category":"Defense / Visualization","description":"3D operator dashboard and self-healing network visualization.","stack":"Next.js, FastAPI, deck.gl, Mapbox","url":"https://github.com/Da0t"},
+ {"title":"specscope","year":2026,"category":"Audio / ML","description":"Interactive spectrogram viewer with headless rendering.","stack":"Python, Docker, audio visualization","url":"https://github.com/Da0t/specscope"},
+ {"title":"SpectraStruct","year":2026,"category":"Machine Learning","description":"Molecular machine-learning experiments and chemical representations.","stack":"PyTorch, RDKit, SELFIES","url":"https://github.com/Da0t/SpectraStruct"},
+ {"title":"Allerscan","year":2026,"category":"Computer Vision","description":"Food allergen identification prototype using structured rules.","stack":"Python, computer vision","url":"https://github.com/Da0t"},
+ {"title":"SurfCast SD","year":2026,"category":"Data Engineering","description":"Surf forecasting and weather data pipelines.","stack":"Python, ETL, NOAA, NWS","url":"https://github.com/Da0t"},
+ {"title":"SortFlow","year":2026,"category":"Productivity","description":"Automated file organization system.","stack":"Python, automation","url":"https://github.com/Da0t/sortflow"},
+ {"title":"Smart Fan Energy Watch","year":2026,"category":"IoT / Data","description":"Energy monitoring dashboard for sensor-connected smart fan hardware.","stack":"ESP32, Streamlit, Supabase","url":"https://github.com/Da0t/Weather-Adaptive-IoT-Energy-Monitor"},
+ {"title":"Restaurant Discovery App","year":2025,"category":"Full-stack","description":"Mobile app prototype for discovering restaurants.","stack":"React Native, Express, MongoDB","url":"https://github.com/Da0t"},
+ {"title":"DSC 80 Analysis","year":2025,"category":"Data Science","description":"End-to-end exploratory analysis and communication in a course project.","stack":"Python, pandas, web visualization","url":"https://github.com/Da0t/dsc80-project-website"},
+ {"title":"Weather-Adaptive Energy Monitor","year":2025,"category":"IoT","description":"Sensor-based monitoring and energy-efficiency experimentation.","stack":"ESP32, sensor data","url":"https://github.com/Da0t/Weather-Adaptive-IoT-Energy-Monitor"},
+ {"title":"Friends Engagement Analysis","year":2024,"category":"Data Analytics","description":"Data-driven analysis of engagement patterns.","stack":"Python, statistical analysis","url":"https://github.com/Da0t/Friends-Data-Driven-Analysis-for-Enhanced-Engagement"}
+]
