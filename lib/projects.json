@@ -1,4 +1,5 @@
 [
+ {"title":"Bikewatching","year":2026,"category":"Geospatial / Visualization","description":"3D map of Bluebikes traffic in Boston and Cambridge that you can filter by time of day.","stack":"Mapbox GL JS, D3, JavaScript","url":"https://da0t.github.io/bikewatching/","image":"projects/bikewatching.jpg"},
  {"title":"Rewind","year":2026,"category":"Developer Tools","description":"Version control for agent decisions with branching and replay.","stack":"Next.js, React, TypeScript","url":"https://github.com/Da0t"},
  {"title":"Pylon","year":2026,"category":"Defense / Visualization","description":"3D operator dashboard and self-healing network visualization.","stack":"Next.js, FastAPI, deck.gl, Mapbox","url":"https://github.com/Da0t"},
  {"title":"specscope","year":2026,"category":"Audio / ML","description":"Interactive spectrogram viewer with headless rendering.","stack":"Python, Docker, audio visualization","url":"https://github.com/Da0t/specscope"},
