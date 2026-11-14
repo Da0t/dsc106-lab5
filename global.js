@@ -16,6 +16,15 @@ export function renderProjects(projects, container, headingTag = 'h2') {
   for (const project of projects) {
     const article = document.createElement('article');
     article.className = 'project-card';
+    if (project.image) {
+      // Image paths are relative to the site root (where this file lives)
+      const image = document.createElement('img');
+      image.className = 'project-image';
+      image.src = new URL(project.image, import.meta.url).href;
+      image.alt = `Screenshot of ${project.title}`;
+      image.loading = 'lazy';
+      article.append(image);
+    }
     const eyebrow = document.createElement('div');
     eyebrow.className = 'project-meta';
     eyebrow.textContent = `${project.year} · ${project.category ?? 'Project'}`;
